@@ -1,0 +1,15 @@
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\SQS.Consumidor.exe
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\SQS.Consumidor.deps.json
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\SQS.Consumidor.runtimeconfig.json
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\SQS.Consumidor.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\SQS.Consumidor.pdb
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.csproj.AssemblyReference.cache
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.AssemblyInfoInputs.cache
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.AssemblyInfo.cs
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.csproj.CoreCompileInputs.cache
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\refint\SQS.Consumidor.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.pdb
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.genruntimeconfig.cache
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\ref\SQS.Consumidor.dll

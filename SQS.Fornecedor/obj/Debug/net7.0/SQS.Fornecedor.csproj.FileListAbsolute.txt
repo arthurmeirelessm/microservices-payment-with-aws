@@ -1,0 +1,15 @@
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\SQS.Fornecedor.exe
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\SQS.Fornecedor.deps.json
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\SQS.Fornecedor.runtimeconfig.json
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\SQS.Fornecedor.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\SQS.Fornecedor.pdb
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.csproj.AssemblyReference.cache
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.AssemblyInfoInputs.cache
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.AssemblyInfo.cs
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.csproj.CoreCompileInputs.cache
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\refint\SQS.Fornecedor.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.pdb
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.genruntimeconfig.cache
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\ref\SQS.Fornecedor.dll
