@@ -13,3 +13,6 @@ C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\refint\SQS.Co
 C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.pdb
 C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.genruntimeconfig.cache
 C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\ref\SQS.Consumidor.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\AWSSDK.SQS.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.csproj.CopyComplete

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C5Ksgr8gql28MRbGPy7L722pPWDKsAEwEuMqLkwGG1/AcB+a8PAH7xwo5b7cLf1n6uMQqgncj0xtC6C6WA19ZQ==",
+  "dgSpecHash": "AtIYH/W2rVImsyYdu5b2zAKQIGD7h2M0Th4ERSe/ey8BMl3Er6YeBVCuhG0wdDBG5i3pjVymP/idsTL813Rz8Q==",
   "success": true,
   "projectFilePath": "C:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arthur.mendes\\.nuget\\packages\\awssdk.core\\3.7.107.4\\awssdk.core.3.7.107.4.nupkg.sha512",
+    "C:\\Users\\arthur.mendes\\.nuget\\packages\\awssdk.sqs\\3.7.103.1\\awssdk.sqs.3.7.103.1.nupkg.sha512"
+  ],
   "logs": []
 }
