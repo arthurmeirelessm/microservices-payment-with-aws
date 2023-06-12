@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj": {}
+    "C:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj": {}
   },
   "projects": {
-    "c:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj": {
+    "C:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj",
+        "projectUniqueName": "C:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj",
         "projectName": "SQS.Consumidor",
-        "projectPath": "c:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj",
+        "projectPath": "C:\\microservices-with-dotnetandaws\\SQS.Consumidor\\SQS.Consumidor.csproj",
         "packagesPath": "C:\\Users\\arthur.mendes\\.nuget\\packages\\",
-        "outputPath": "c:\\microservices-with-dotnetandaws\\SQS.Consumidor\\obj\\",
+        "outputPath": "C:\\microservices-with-dotnetandaws\\SQS.Consumidor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthur.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "AWSSDK.SQS": {
               "target": "Package",
               "version": "[3.7.103.1, )"
+            },
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[2.5.0, )"
             }
           },
           "imports": [

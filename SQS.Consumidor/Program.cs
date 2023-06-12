@@ -1,19 +1,31 @@
 ﻿using Amazon;
 using Amazon.SQS;
 using Amazon.SQS.Model;
+using DotNetEnv;
 
-public class Program
+internal class Program
 {
-    private static async Task Main(string[] args)
+    static async Task Main(string[] args)
     {
+        DotNetEnv.Env.Load();
+
         var client = new AmazonSQSClient(RegionEndpoint.USWest2);
 
-        var request = new SendMessageRequest
+        var endpointAWSvariable = Environment.GetEnvironmentVariable("USER_ENDPOINT_AWS");
+
+        var request = new ReceiveMessageRequest
         {
-            QueueUrl = "https://sqs.us-west-2.amazonaws.com/517554276447/microservice-test",
-            MessageBody = "Teste 123"
+            QueueUrl = endpointAWSvariable
         };
 
-        await client.SendMessageAsync(request);
+        var response = await client.ReceiveMessageAsync(request);
+
+        foreach (var message in response.Messages)
+        {
+            System.Console.WriteLine(message.Body);
+            if(message.Body.Contains("fuck"))
+            await client.DeleteMessageAsync(endpointAWSvariable, message.ReceiptHandle);
+        }
     }
+
 }

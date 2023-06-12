@@ -16,3 +16,8 @@ C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\ref\SQS.Consu
 C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\AWSSDK.Core.dll
 C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\AWSSDK.SQS.dll
 C:\microservices-with-dotnetandaws\SQS.Consumidor\obj\Debug\net7.0\SQS.Consumidor.csproj.CopyComplete
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\DotNetEnv.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\microservices-with-dotnetandaws\SQS.Consumidor\bin\Debug\net7.0\Sprache.dll

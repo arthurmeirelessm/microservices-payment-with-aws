@@ -12,7 +12,7 @@ public class Program
     {
         var msgRequest = new MessageBodyJSON()
         {
-            Body = "Mensagem de texto",
+            Body = "ALA EU DE PO fuck",
             Status = 200
         };
 
