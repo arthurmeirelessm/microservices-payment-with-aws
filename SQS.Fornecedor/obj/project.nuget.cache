@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jf3Ah/VwR8zUJy4qH3jKH/Mqbar9dzTUNwfeo3GFG9SZuP2fvJ1SpnEb1MBQ9hssjUKpfBUVQDk5Sh6d9dQCiA==",
+  "dgSpecHash": "IfQ09b0NNgIK++a5zXCDu1wr591YsosVEMKx96LmBrhpXG1V79hb3C8z3snYZjgTqKpVtKPepy0cZG8KHv26ug==",
   "success": true,
   "projectFilePath": "C:\\microservices-with-dotnetandaws\\SQS.Fornecedor\\SQS.Fornecedor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arthur.mendes\\.nuget\\packages\\awssdk.core\\3.7.107.4\\awssdk.core.3.7.107.4.nupkg.sha512",
+    "C:\\Users\\arthur.mendes\\.nuget\\packages\\awssdk.sqs\\3.7.103.1\\awssdk.sqs.3.7.103.1.nupkg.sha512",
+    "C:\\Users\\arthur.mendes\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\arthur.mendes\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
