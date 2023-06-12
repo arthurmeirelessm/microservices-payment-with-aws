@@ -16,3 +16,9 @@ C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\ref\SQS.Forne
 C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\AWSSDK.Core.dll
 C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\AWSSDK.SQS.dll
 C:\microservices-with-dotnetandaws\SQS.Fornecedor\obj\Debug\net7.0\SQS.Fornecedor.csproj.CopyComplete
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\dotenv.net.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\DotNetEnv.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\microservices-with-dotnetandaws\SQS.Fornecedor\bin\Debug\net7.0\Sprache.dll

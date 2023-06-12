@@ -4,18 +4,16 @@ using Amazon.SQS.Model;
 
 public class Program
 {
-    private static void Main(string[] args)
+    private static async Task Main(string[] args)
     {
-        var client = new Amazon.SQS.Client(RegionEndpoint.USEast1);
+        var client = new AmazonSQSClient(RegionEndpoint.USWest2);
 
-        var request = new ReceiveMessageRequest
+        var request = new SendMessageRequest
         {
-            QueueUrl = "https://sqs.us-west-2.amazonaws.com/517554276447/microservice-test"
+            QueueUrl = "https://sqs.us-west-2.amazonaws.com/517554276447/microservice-test",
+            MessageBody = "Teste 123"
         };
 
-        await client.ReceiveMessageRequest(request);  
-
-
-
+        await client.SendMessageAsync(request);
     }
 }
